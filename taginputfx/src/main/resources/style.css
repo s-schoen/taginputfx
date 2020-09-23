@@ -1,0 +1,17 @@
+.tag-input {
+    -fx-spacing: 3;
+    -fx-padding: 3;
+    -fx-max-height: 30;
+}
+
+.tag-input .tag {
+    -fx-background-color: lightblue;
+    -fx-alignment: center;
+    -fx-background-radius: 8;
+    -fx-border-radius: 8;
+}
+
+.tag-input .tag .button {
+    -fx-alignment: center;
+    -fx-background-color: transparent;
+}
