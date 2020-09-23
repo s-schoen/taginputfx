@@ -3,6 +3,8 @@ A simple Tag input control for JavaFx.
 
 ![tag-input](docs/images/tag-input.png)
 
+License: MIT
+
 ### Usage
 ```java
 import com.gmail.steffen1995.taginputfx.TagInput;
